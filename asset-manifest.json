@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/concepts/static/css/main.7b10e955.css",
+    "main.js": "/concepts/static/js/main.08edd5e6.js",
+    "static/media/anchor-1.png": "/concepts/static/media/anchor-1.bd1602dd35b15f2decec.png",
+    "static/media/breathe.jpg": "/concepts/static/media/breathe.7b34bb10cf8a006e51b8.jpg",
+    "static/media/memocho.jpg": "/concepts/static/media/memocho.2acec8862aa5d3382a89.jpg",
+    "static/media/energy.jpg": "/concepts/static/media/energy.b1e264d7e8ff935fa1b8.jpg",
+    "static/media/huxley.jpg": "/concepts/static/media/huxley.19b7f19d92df708f6392.jpg",
+    "static/media/lastofus.jpg": "/concepts/static/media/lastofus.a2b813073aa72b1fbda0.jpg",
+    "static/media/travel.jpg": "/concepts/static/media/travel.a483997eaab12b8d0d7d.jpg",
+    "static/media/stx.jpg": "/concepts/static/media/stx.9fc45025e8c1ad5e41d8.jpg",
+    "static/media/spacex.jpg": "/concepts/static/media/spacex.a0bd42776e812f884c00.jpg",
+    "static/media/intro-thumbnail.jpg": "/concepts/static/media/intro-thumbnail.b4bcb9bf85874932e095.jpg",
+    "index.html": "/concepts/index.html",
+    "main.7b10e955.css.map": "/concepts/static/css/main.7b10e955.css.map",
+    "main.08edd5e6.js.map": "/concepts/static/js/main.08edd5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b10e955.css",
+    "static/js/main.08edd5e6.js"
+  ]
+}
