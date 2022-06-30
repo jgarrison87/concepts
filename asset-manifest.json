@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/concepts/static/css/main.000270e0.css",
-    "main.js": "/concepts/static/js/main.b8f3a460.js",
+    "main.js": "/concepts/static/js/main.83b5f196.js",
     "static/media/anchor-1.png": "/concepts/static/media/anchor-1.bd1602dd35b15f2decec.png",
     "static/media/breathe.jpg": "/concepts/static/media/breathe.7b34bb10cf8a006e51b8.jpg",
     "static/media/memocho.jpg": "/concepts/static/media/memocho.2acec8862aa5d3382a89.jpg",
@@ -14,10 +14,10 @@
     "static/media/intro-thumbnail.jpg": "/concepts/static/media/intro-thumbnail.b4bcb9bf85874932e095.jpg",
     "index.html": "/concepts/index.html",
     "main.000270e0.css.map": "/concepts/static/css/main.000270e0.css.map",
-    "main.b8f3a460.js.map": "/concepts/static/js/main.b8f3a460.js.map"
+    "main.83b5f196.js.map": "/concepts/static/js/main.83b5f196.js.map"
   },
   "entrypoints": [
     "static/css/main.000270e0.css",
-    "static/js/main.b8f3a460.js"
+    "static/js/main.83b5f196.js"
   ]
 }
